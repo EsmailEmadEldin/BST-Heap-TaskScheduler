@@ -1,0 +1,16 @@
+5
+Study for Data Structures exam
+120
+Educational
+Morning jog
+30
+Health
+Cook dinner
+45
+Food
+Read research paper
+90
+Educational
+Take vitamins
+10
+Health

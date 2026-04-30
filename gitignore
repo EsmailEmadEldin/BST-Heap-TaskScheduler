@@ -1,0 +1,14 @@
+# Compiled binaries
+task_scheduler
+task_scheduler.exe
+*.o
+*.out
+
+# IDE files
+.vscode/
+.idea/
+*.user
+
+# OS files
+.DS_Store
+Thumbs.db
